@@ -1,7 +1,8 @@
 A bug report/issue report should contain:
 
-1) Server Version+Fork
-2) ProtocolLib version
-3) Server log
-4) We recommend sending a video/a screenshot of the issue if possible, so we would be able to fix it faster.
-5) A very detailed description of the issue
+1) GodsEye version
+2) Server Version+Fork
+3) ProtocolLib version
+4) Server log
+5) We recommend sending a video/screenshot of the issue if possible, so we would be able to fix it faster.
+6) A very detailed description of the issue
