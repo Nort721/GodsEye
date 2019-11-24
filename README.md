@@ -9,9 +9,9 @@ and console logs and describe it into details,
 these will be also requred:
 
 - GodsEye version
+- Server version+fork
 - ProtocolLib version
-- Minecraft Server version + fork
-- Full plugin list
+- Server log
 - Explanation of how to reproduce the issue
 
 If your explanation is too vague, or the issue can't be reproduced, then your issue will be closed.
